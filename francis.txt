@@ -1,4 +1,4 @@
-1 comandos basicos en el meterpreter de msfconsole, una ves conectado a la maquina:
+up1 comandos basicos en el meterpreter de msfconsole, una ves conectado a la maquina:
 2 
 3 1. comando para tomar captura de pantalla actual en la maquina victima:
 4       screenshot
@@ -24,4 +24,8 @@
 24      3. subir el archivo en el escritorio del usuario lola
 25      4. ver el contenido de la carpeta escritorio en el usuario lola
 26      5. leer un archivo subido por un compañero (el profe te dira cual)
-27      6. descargar un archivo subido por un compañero (el teacher te dira cual)
+27      6. descargar un archivo subido por un compañero (el teacher 
+
+
+
+
