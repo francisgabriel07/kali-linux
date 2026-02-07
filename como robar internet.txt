@@ -1,0 +1,44 @@
+Francis Paredes
+
+
+Fr@nc!s G@br!&l
+ B8-CA-3A-B3-94-5C
+
+
+
+direccion fisica -direccion mac -mac address
+direcion unica del adaptador de red de cualquier disposirivo que se conecte a una red o que comparta la conexion de una red.
+
+dispositivos finales : pc,laptops,smarthphone,tablets,smartTV smartwatch,smart freezerssmart air ...etc
+
+Dispositivos de red : router,switch,firewall,repetidores,antenas,parabolas,torres,modem...etc
+
+medios de conexion : cobres,fibras y señales electromacneticas.
+
+es decir, cuando solicito la conexion a una red, comparto la direccion mac,y cuando comparto pongo a la disposicion uan red para que se conecten a dicha red a travez de mi,comparto ls direccion mac de mi adaptador
+una direccion mac,esta compuesta por 6 grupos de 2 digitos (estos pueden ser del 0 al 9 y de la letra a hasta la z)
+
+1.modem : modulador/demodulador = convierte la señal electromagnetica a señal electrica y viceversa.
+
+2.router: tiene un modem integrado  (administra redes por IP)
+3.switch:tiene un modem integrado  (administra redes por Mac)
+ 4.firewall:tiene un modem integrado (administra redes por politicas de seguridad)
+
+ 5.repetidor : tiene un modem integrado (replica la configuracion de la red para mayor coverturra)
+
+dispositivo multifuncion  : equipo electronico compuesto por un router, 1 switch, un firewall y un modem.
+
+los ISP (internet services providers) te  venden un dispositivo multifuncion (sea de casa o bolsillo) para que te conectes a internet a travez de dicho dispositivo.
+
+
+cada dispositivo multifuncion (el router inhalambrico) tiene una targeta de red "inalambrica" por donde trasmite el canal SSID y la direccion MAC de su targeta, en espera de solicitudes de conexion hacia esta red por parte de otros dispositivos.
+
+
+cuando un dispositvio final con el adaptador inalambrico encendido detecta la senal de conexion del dispositivo multifuncion ,este dispositivo ,puede ver el SSID y la conexion MAC de su targeta, en espera de solicitudes de conexion hacia esa red por parte de otros dispositivos. 
+
+datos obtenidos
+SSID:CLARO_INTERNET_2.4ghz_db1
+MAC? ultimos 3 digitos de la mac= DB1
+Contraseña?Nombre de quien le provee internet + ultimo 3 digitos de la mac + un factor clave
+example CLARO [+]DB1
+
